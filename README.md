@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Java Development**
 
-- 💬 Ask me about **HTML5,CSS3,BootStrapv5,React,Javascript,J2SE,J2EE,Data Structures & Algorithms**
+- 💬 Ask me about **HTML5,CSS3,BootStrapv5,React,Javascript,JavaSE,Jakarta EE,Data Structures & Algorithms**
 
 - 📫 How to reach me **developerrahul671@gmail.com**
 
