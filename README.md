@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **developerrahul671@gmail.com**
 
-- ⚡ Fun fact **I think I am so stubborn for my desires:)**
+- ⚡ Fun fact **I am so stubborn for my desires:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
