@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
 <h3 align="center">A Passionate Full-Stack Developer From India</h3>
 <img align="right" alt="Coding animation" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r4huldeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="r4huldeveloper" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r4huldeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="r4huldeveloper"/> </p>
 
 - 🔭 I’m currently working on [Sharethoughts](https://github.com/r4huldeveloper/ShareThoughts.git)
 
