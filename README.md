@@ -3,7 +3,7 @@
 <img align="right" alt="Coding animation" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4huldeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="r4huldeveloper"/> </p>
 
-- 🔭 I’m currently working on [Sharethoughts](https://github.com/r4huldeveloper/ShareThoughts.git)
+- 🔭 I’m currently working as a **Senior Developer at Hokum Digital**
 
 - 🌱 I’m currently learning **Spring-boot, CI/CD, Docker, DS&Algo , React, Web-servers**
 
