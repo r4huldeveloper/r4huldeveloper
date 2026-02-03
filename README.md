@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
-<h3 align="center">A Passionate Geek From India</h3>
+<h3 align="center">A Passionate Product & Business Analyst From India</h3>
 <img align="right" alt="Coding animation" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4huldeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="r4huldeveloper"/> </p>
 
-- 🔭 I’m currently working as a **Learner**
+- 🔭 I’m currently working on **Projects**
 
 - 🌱 I’m currently learning **Spring-boot, CI/CD, Docker, DS&Algo , React, Java-Frameworks**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **open-source projects**
 
-- 💬 Ask me about **Java Full-Stack development**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **developerrahul671@gmail.com**
 
