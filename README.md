@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Spring-boot, CI/CD, Docker, DS&Algo , React, Java-Frameworks**
+- 🌱 I’m currently learning ****
 
 - 👯 I’m looking to collaborate on **Technical Projects**
 
