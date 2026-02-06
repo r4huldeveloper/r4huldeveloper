@@ -2,7 +2,7 @@
 <h3 align="center">Product & Business Analyst | Data → Insights → Strategy → Impact</h3>
 
 <p align="center">
-I solve business problems using data analytics, dashboards, and product thinking to drive measurable outcomes.
+I solve business problems using data analytics, detailed thinking, dashboards, and product thinking to drive measurable outcomes.
 </p>
 
 ---
