@@ -56,7 +56,6 @@ Data cleaning → analysis → dashboard → recommendations.
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/ra4hul
 - Email: developerrahul671@gmail.com
-- Portfolio: https://your-portfolio-link
 
 ---
 
