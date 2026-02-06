@@ -36,4 +36,28 @@ Business KPIs, revenue trends, and actionable insights to improve profitability.
 Cohort analysis, retention metrics, and churn reduction strategy.
 
 ### 🔹 Product Requirement Document (FinTech App)
-Complete PRD with user stories, prioritization, KPIs & wire
+Complete PRD with user stories, prioritization, KPIs & wireframes.
+
+### 🔹 A/B Testing Case Study
+Hypothesis testing and conversion rate optimization.
+
+### 🔹 End-to-End Business Case Study
+Data cleaning → analysis → dashboard → recommendations.
+
+---
+
+## 📈 Currently Improving
+- Advanced SQL
+- Product Metrics & Experimentation
+- Real-world case studies
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/ra4hul
+- Email: developerrahul671@gmail.com
+- Portfolio: https://your-portfolio-link
+
+---
+
+⭐ Open to Product Analyst | Business Analyst | FinTech | Consulting opportunities
