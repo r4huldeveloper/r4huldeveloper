@@ -45,17 +45,6 @@
 
 ---
 
-## 📌 Past Projects
-
-| Project | Stack | What |
-|---|---|---|
-| Sales Performance Dashboard | SQL + Python + BigQuery + PowerBI + Recommendation | KPIs, revenue trends & profitability insights |
-| Customer Churn Analysis | SQL + Python + BigQuery + PowerBI + Recommendations| Cohort analysis & retention metrics |
-| FinTech App PRD | — | User stories, KPIs & wireframes |
-| A/B Testing Case Study | — | Hypothesis testing & CRO |
-
----
-
 <div align="center">
 
 **Open to APM • BA • Product Analyst roles**
