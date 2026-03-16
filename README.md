@@ -21,7 +21,7 @@
 > Resume Analyzer • JD Matcher • Mock Interviewer — all in one.
 > Powered by **Groq (llama-3.3-70b)**. BYOK. Free. Built with vanilla JS.
 
-[![Live](https://img.shields.io/badge/🔴%20Live-career--copilot.vercel.app-brightgreen?style=for-the-badge)](https://career-copilot-seven.vercel.app)
+[![Live](https://img.shields.io/badge/🔴%20Live-career--copilot.vercel.app-brightgreen?style=for-the-badge)](https://careercopilot.in)
 [![GitHub](https://img.shields.io/badge/GitHub-Career--Copilot-black?style=for-the-badge&logo=github)](https://github.com/r4huldeveloper/Career-Copilot)
 
 `Vanilla JS` `Groq API` `PDF.js` `BYOK` `15+ Job Roles`
