@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=r4huldeveloper&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://streak-stats.demolab.com?user=r4huldeveloper&theme=tokyonight&hide_border=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4huldeveloper&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
