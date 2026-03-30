@@ -41,7 +41,7 @@
 
 ## 🛠 Skills
 
-`GenAI` `SQL` `Python` `Power BI` `Excel` `PRD / BRD` `Jira` `A/B Testing` `Agile`
+`GenAI` `SQL` `Python` `Power BI` `Excel` `PRD / BRD` `Jira` `A/B Testing` `Agile` `Dashboards` `JIRA`
 
 ---
 
