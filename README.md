@@ -4,7 +4,7 @@
 
 <br/>
 
-**PM / BA in the making • Shipping products, not just applying for jobs**
+**PM / TPM in the making • Shipping products, not just applying for jobs**
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=r4huldeveloper.r4huldeveloper&label=Profile%20Views&color=00d9ff)](https://github.com/r4huldeveloper)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ra4hul-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ra4hul)
