@@ -8,25 +8,7 @@
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=r4huldeveloper.r4huldeveloper&label=Profile%20Views&color=00d9ff)](https://github.com/r4huldeveloper)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ra4hul-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ra4hul)
-[![Twitter](https://img.shields.io/badge/Twitter-@careercopilot04-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/careercopilot04)
-
 </div>
-
----
-
-## 🚢 What I'm Shipping Right Now
-
-### [Career Copilot](https://career-copilot-seven.vercel.app) — AI Career Tool for Indian Freshers
-
-> Resume Analyzer • JD Matcher • Mock Interviewer — all in one.
-> Powered by **Groq (llama-3.3-70b)**. BYOK. Free. Built with vanilla JS.
-
-[![Live](https://img.shields.io/badge/🔴%20Live-careercopilot.in-brightgreen?style=for-the-badge)](https://careercopilot.in)
-[![GitHub](https://img.shields.io/badge/GitHub-Career--Copilot-black?style=for-the-badge&logo=github)](https://github.com/r4huldeveloper/Career-Copilot)
-
-`Vanilla JS` `Groq API` `PDF.js` `BYOK` `15+ Job Roles`
-
----
 
 ## 📊 GitHub Stats
 
@@ -46,10 +28,7 @@
 ---
 
 <div align="center">
-
-**Open to APM • BA • Product Analyst roles**
-FinTech • Consulting • Startups • Product
-
-📧 developerrahul671@gmail.com
-
+  <p><strong>Open to PM/TPM • Product • Ops(ML, Data, AI)</strong></p>
+  <p>Startups • Product • Fintech • Consulting</p>
+  <p>📧 developerrahul671@gmail.com</p>
 </div>
